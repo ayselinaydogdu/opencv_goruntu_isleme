@@ -1,0 +1,1 @@
+Bu projede, el yazısı rakamları tanımak için makine öğrenmesi kullanıldı. CSV dosyasından alınan verilerle Random Forest modeli eğitildi ve kaydedildi. Daha sonra farklı rakam görselleri OpenCV ile işlenip modele uygun hale getirildi. İşlenen görseller modele verilerek hangi rakam olduğu tahmin edildi.
